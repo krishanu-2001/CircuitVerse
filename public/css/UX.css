@@ -336,8 +336,6 @@ select {
     font-family: 'Gill Sans', sans-serif;
     padding-left: 1em;
     opacity: 0.5;
-    display:inline;
-
 }
 
 .tabsCloseButton {
@@ -345,8 +343,6 @@ select {
     font-family: 'Gill Sans', sans-serif;
     padding-left: 1em;
     opacity: 1.0;
-    display: inline;
-
 }
 
 #tabsDivTabEdit1{
